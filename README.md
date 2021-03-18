@@ -1,5 +1,4 @@
 # Hi there 👋 Glad you stopped by!
-<hr>
 My name is Alicia Pelkey 👩🏻‍💻 and I'm a data analyst based in Austin, Texas. I recently graduated from the Data Analytics and Visualization boot camp at The University of Texas, and I'm pumped that I made the big leap into the world of data. 
 
 <!-- ## ⚒️ Technologies & Tools -->
