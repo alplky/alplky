@@ -14,7 +14,6 @@ My name is Alicia Pelkey 👩🏻‍💻 and I'm a data analyst based in Austin,
 <!--- ### Data Gathering & Transformation: -->
 
 ## 📈 GitHub Stats
-<hr>
 <a href="https://github.com/alplky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alplky&layout=compact&theme=vue-dark" />
 </a>
