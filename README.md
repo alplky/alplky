@@ -3,7 +3,7 @@ My name is Alicia Pelkey 👩🏻‍💻 and I'm a data analyst based in Austin,
 
 ## 💻 Contact
 <a href="mailto:alicia.pelkey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/aliciapelkey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/aliciapelkey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 ## ⚒️ Tools & Technologies
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
