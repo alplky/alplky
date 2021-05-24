@@ -38,5 +38,5 @@ My name is Alicia Pelkey 👩🏻‍💻 and I'm a data analyst based in Austin,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alplky&layout=compact&theme=vue-dark" />
 </a>
 
-## 🎧 Listening To
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1215650061)
+<!-- ## 🎧 Listening To
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1215650061) -->
